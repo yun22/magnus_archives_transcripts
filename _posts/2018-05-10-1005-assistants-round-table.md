@@ -2,7 +2,7 @@
 layout:          post
 title:           "MAG100.5 - Assistants Round Table"
 date:            2018-05-10 12:00:00 -0400
-categories:      incomplete
+categories:      incomplete, special
 tags:            []
 episode_title:   'Assistants Round Table'
 episode_number:  '100.5'
@@ -11,725 +11,864 @@ content_flags:   [Spoilers!, Gruesome horror prop discussion]
 acast_url:       https://play.acast.com/s/themagnusarchives/mag100.5-assistantsroundtable
 formats: 
 official:        false
-unofficial:      http://www.youtube.com/
-unofficial_name: YouTube CC
+unofficial:      https://www.youtube.com, https://github.com/yun22
+unofficial_name: YouTube CC, yun22
 unfinished:      true
 wiki_url:        
 ---
 
-hi everyone then here I'd just like to
+#### ARCHIVIST
 
-take a moment to thank some of our
+Rusty Quill presents
 
-patrons Rob Sheridan Andrew bushel
+#### ARCHIVIST
 
-Quinton Walker Dylan Parkhurst
+_(simult.)_ The Magnus Archives.
 
-Linda Jean neon gray Holly Atchinson
+#### ALEX, LYDIA, MIKE
 
-Andrea Roarke bat MoMA John Dondero
+_(simult.) (ominously)_ The Magnus Archives.
 
-thank you all we really appreciate your
+#### [LYDIA CACKLES]
 
-support if you'd like to join them go to
+#### ALEX
 
-WWE tree on Comm forward slash rusty
+_(muffled)_ You're the worst.
 
-quill and take a look at our rewards
+Right, hello and welcome to our assistant special of The Magnus Archives. We're in our season break at the moment and we thought we would take the time and catch up with some of the assistants for the archive 'cause we all listen to a certain Jonathan Sims... rather a lot
 
-Rustique will presents hello and welcome
+#### ALEX
 
-to our assistant special of the magnus
+_(simult.) on Magnus Archives
 
-archives we're in our season break at
+#### MIKE
 
-the moment and we thought we would take
+_(simult.) (chuckles)_
 
-the time and catch up with some of the
+#### LYDIA
 
-assistants for the archive because we
+_(simult.) (chuckles, agrees)_
 
-all listen to a certain Jonathan Sims
+#### ALEX
 
-rather a lot on Magnus archives so I
+so I thought we might spend some time with people other than Jonny. With that in mind, who have I got with me today?
 
-thought we might spend some time with
+#### MIKE
 
-people other than Johnny with that in
+We got Mike, who plays Tim Stoker,
 
-mind who have I got with me today we got
+#### ALEX
 
-Mike who plays Tim Stoker Lydia who
+and
 
-plays Melanie so first things first then
+#### LYDIA
 
-obviously you play Tim Mike you play
+and Lydia, who plays Melanie.
 
-Melanie Lydia ton and I play Martin sort
+#### ALEX
 
-of remembering good job there so what
+So first things first then, obviously you play Tim, Mike; you play Melanie, Lydia; 
 
-you actually think about your own
+#### LYDIA
 
-characters I knew the heavy stuff was
+Well done. Yep, that's it.
 
-gonna come out of this I'm happy to lead
+#### [MIKE AGREES]
 
-the charge and say whilst Martin's
+#### ALEX
 
-lovely I think he drive me completely up
+and I play Martin
 
-for I'd be like no you're lovely
+#### LYDIA
 
-stopping them at stop stop doesn't just
+_(simult.)_ Yep.
 
-go go visit pets at home and Stroke some
+#### MIKE
 
-animals yeah but for the rest of you how
+_(simult.)_ It's hard remembering.
 
-what your actual takeaways of the
+#### LYDIA
 
-characters that you play well gone then
+Good job there.
 
-I'll go next so my my character I've
+#### ALEX
 
-always found a whelp since season two
+So, what do you actually think about your own characters?
 
-I've found a bit of a struggle mostly
+#### [LYDIA LAUGHS]
 
-because he started off very
+#### MIKE
 
-happy-go-lucky and sort of you know very
+Argh, I knew the heavy stuff was gonna come out first. 
 
-lively very chipper and then the well
+#### LYDIA
 
-without am I allowed to give spoilers
+_(in faux despair)_ No.
 
-yeah amazing well towards the end of
+#### ALEX
 
-season two everything kind of goes to
+I'm happy to lead the charge and say: whilst Martin's lovely, I think he'd drive me completely up the wall.
 
-pot and Tim becomes horrendously
+#### LYDIA 
 
-depressed to the point where my
+_(simult.) (laughs, agrees)_
 
-character was the polar opposite of what
+#### MIKE
 
-I was originally brought on to do
+_(simult.) (laughs)_
 
-literally was the best which don't get
+#### ALEX
 
-me wrong I enjoy it I do really enjoy it
+I think I'd be- I'd be like: no you're lovely, stop. No Ma-, stop. Stop. Just- just go- go visit pets at home and stroke some animals for a while Martin and you'll feel better.
 
-it gives me a moment of quiet
+#### LYDIA 
 
-contemplation so I can consider my life
+_(simult.) (laughs, agrees)_
 
-decisions at least once a month but like
+#### MIKE
 
-at the same time I if I were to meet Tim
+_(simult.) (laughs)_
 
-I just slap him back hand as well
+#### ALEX
 
-tempering her upping he's had a rough
+But for- for the rest of you, how- what- what are your actual takeaways of the characters that you play?
 
-time of it he's had a very
+#### MIKE
 
-very rough time of it but come on
+Well, uh, go on then, I'll go next. So my- my character, I've always found, well, since season two I've found a bit of a struggle. Mostly because he started off very happy-go-lucky and sort of, you know, very lively, very chipper and then... uh yeah, well, without- am I allowed to give spoilers?
 
-support network yeah lack thereof lack
+#### ALEX
 
-thereof yeah I think that that is the
+Yeah, you are. Yeah.
 
-main problem is that there is no
+#### MIKE
 
-predefined support network for Tim he
+Amazing. Well, towards the end of season two, uh, everything kind of goes to pot and Tim becomes horrendously depressed. Um, to the point where my character was the polar opposite of what I was originally brought on to do.
 
-needs like something hold him out anyone
+#### LYDIA
 
-after that happens if that happens it
+_(laughs)_ It's bait and switch really.
 
-things will probably get better for Tim
+#### MIKE
 
-but hate north to see ya hora podcast
+Yeah, it literally was the best bait and switch.
 
-I'm sure that getting a wonderful
+#### ALEX
 
-support network yeah and the tools to
+I think it worked really well.
 
-work through traumas and lots of hunts
+#### MIKE
 
-and puppies is exactly what's gonna
+I- I-, don't get me wrong, I enjoy it. I do really enjoy it. It gives me a moment of quiet contemplation so I can consider my life decisions at least once a month. But like, at the same time, I- if I were to meet Tim? I'd just slap him.
 
-happen well the thing is they'll be
+#### [ALEX AND LYDIA LAUGH]
 
-readily available but never accessible
+#### ALEX
 
-[Laughter]
+He- he-
 
-well that's that's still brighter than
+#### MIKE
 
-ours taking the tools to deal with your
+A full back hand as well. _(??? i have apd)_, everything.
 
-problems in the Magnus universe
+#### ALEX
 
-generally consists of some kind of book
+He's had a rough- He's had a rough time of it.
 
-or like a gun or a knife or fire fires a
+#### MIKE
 
-good one yeah you know what so far yeah
+He has had a _very_ rough time of it.
 
-completely oblivious there's your
+#### ALEX
 
-solution yeah how about you Lydia
+He's had a very rough time of it.
 
-playing Melanie how have you been
+#### MIKE
 
-finding it how do you what do you think
+But come on.
 
-of your character I'd still want to know
+#### ALEX
 
-why and how she was shot by one of us do
+But look at his support network.
 
-know johnny will not well i won't tell
+#### MIKE
 
-me the only person who knows is johnny
+Yeah, or
 
-and he has object Lee refused to tell us
+#### ALEX
 
-is some is a little frustrating only a
+lack thereof.
 
-major defining character moment that
+#### MIKE
 
-drove you back towards the Magnus
+Lack thereof, yeah. I think that that is the main problem- is that there is no predefined support network for Tim. He- he needs like _something_
 
-archives exactly it's not like you need
+#### ALEX
 
-to know what your motivations later than
+_(in background)_ Anything
 
-you too and it came in I thought it was
+#### MIKE
 
-probably gonna be for a one-off early on
+to pull him out
 
-and the only characteristic that I gave
+#### ALEX
 
-her really it was the it was you know
+Anyone.
 
-how far is the rod upper us on any
+#### MIKE
 
-particularly given day and since then
+and after that happens- if that happens, it- things will probably get better for Tim. But hey, we'll have to see.
 
-I've sort of developed that into it she
+#### LYDIA
 
-it's very important to her that she
+Yeah, it's a horror podcast; I'm sure that-
 
-seems competent and she has to lash out
+#### ALEX
 
-the moment that she doesn't really know
+everything will be fine, yeah
 
-what's going on or that she thinks other
+#### LYDIA
 
-people think she doesn't know what's
+getting a, yeah, wonderful support network 
 
-going on and so yeah that's the one way
+#### MIKE
 
-you could hurt her the most probably
+Yeah.
 
-like yeah I think her ideal to it would
+#### LYDIA
 
-be something like the spiral where it's
+and the tools to
 
-like she's given a test and she hasn't
+#### MIKE
 
-studied for potentially like IKEA
+Yeah, yeah.
 
-furniture when she's the only one and
+#### LYDIA
 
-doesn't have a hand but other people
+work through his traumas and lots of hugs and puppies is exactly what's gonna happen.
 
-doing it who do have all asked for it
+#### MIKE
 
-exactly exactly
+Well the thing is, they'll be readily available but never accessible.
 
-non-branded he-man is not just green
+#### [ALEX, LYDIA AND MIKE LAUGH]
 
-things smash right smash smash anger yes
+#### LYDIA
 
-mashing grrrrrr yeah so she still got
+Tantalus' support network.
 
-some cheer in her which is ridiculous I
+#### [ALEX AND MIKE LAUGH]
 
-think the last time I played her she was
+#### ALEX
 
-inviting
+Well that's- that's still brighter than I- what I was thinking. The tools to deal with your problems in the Magnus universe generally consist of some kind of book or like a gun... 
 
-mine to the pub yes there's actually
+#### LYDIA
 
-some some happiness which is obviously a
+Yeah.
 
-cruelty playing the character so we
+#### MIKE
 
-obviously we know like what you think
+Yeah.
 
-about them and stuff like that but when
+#### ALEX
 
-it comes to actually playing the
+or a knife... or fire. Fire's a good one.
 
-characters obviously like for all of us
+#### MIKE
 
-these aren't us like they're really
+Yeah.
 
-really not yes as people I mean like you
+#### LYDIA
 
-would have absolutely no sympathy with
+Being oblivious seems to be the only power.
 
-Alex in real life no kittens for Alex
+#### ALEX
 
-but in all seriousness obviously like
+You know what? You know what? So far, yeah.
 
-you have to have an end you have
+#### MIKE
 
-dominating for your character you have
+Yeah.
 
-to have a way to get in and actually
+#### ALEX
 
-like portray that so I'm curious because
+Being completely oblivious, there's- theres your solution.
 
-Mike starting with you you've had the
+#### LYDIA AND MIKE
 
-most change because you're in initially
+Yeah.
 
-when we were sort of going over
+#### ALEX
 
-character stuff was very much yeah that
+How about you Lydia? Playing Melanie, how have you been finding it? How do you- what do you think of your character?
 
-positivity and it was that it was almost
+#### LYDIA
 
-like if the Magnus archives needed to
+Like, I'd still want to know why and how she was shot by a ghost.
 
-have a PR face be Mike you know come
+#### ALEX
 
-join the mangas are merged
+_(slightly frantic)_ I want to know that too!
 
-most of the characterization for that
+#### [MIKE LAUGHING]
 
-just consisted of raining it in a bit
+#### LYDIA
 
-yeah exactly
+Like, I. don't. know! Right, that-
 
-now that's kind of gone so wash you're
+#### ALEX
 
-in now because I'd actually say that
+None of us do.
 
-you're getting really good at just
+#### MIKE
 
-switching as a character
+None of us do.
 
-Tim on and off well I feel I mean this
+#### ALEX
 
-is a horror podcast but I feel like
+Like genuinely, the only person-
 
-you're gonna bring the tone down now so
+#### LYDIA
 
-basically in the season one
+that wanker Jonny, will not- well, he won't tell me.
 
-stuff like you say it was very is very
+#### ALEX
 
-easy for me because my my character
+The only person who knows is Jonny, and he has abjectly refused to tell us.
 
-outside of the character is very I
+#### LYDIA
 
-filled it very lively and bubbly and if
+_(calmly)_ Eh, it's um, it's a little frustrating.
 
-you saw the Christmas livestream than
+#### [ALEX AND MIKE LAUGH]
 
-that that basically is who we are as you
+#### LYDIA
 
-know as people and having to make that
+Uh-
 
-switch around season two was very very
+#### ALEX
 
-difficult that was tough to the
+It's only a major defining character moment that drove you back towards the Magnus Archives, ok. Calm down.
 
-beginning for the beginning of it
+#### LYDIA
 
-literally you know you guys probably
+Aargh!
 
-don't know who are listening but we have
+#### MIKE
 
-show notes at the the in the middle and
+Yeah, exactly. It's not like you need to know what your motivations are.
 
-at the end of everything that we do and
+#### [LYDIA AND MIKE LAUGH]
 
-Alex sits through and takes us through a
+#### LYDIA
 
-couple of his thoughts and we discuss
+Right, so I started out- obviously, I started later than you two and, uh, came in; I thought it was probably gonna be for a one-off, early on, and, uh, the only characteristic that I gave her, really, was the- it was- you know, how far is the rod up her ass on any particular given day? Um, and since then I've sort of developed that into, well, she- it's very important to her that she seems competent
 
-ideas about how we could have played
+#### ALEX
 
-that scene differently or better or
+Yes.
 
-whatever it's almost like respecting
+#### LYDIA
 
-your actors but but not yeah exactly
+and she seems to lash out the moment that she doesn't really know what's going on; or that she thinks other people think she doesn't know what's going on. Um, and s- so yeah, that's the- the one way you could hurt her the most. 
 
-yeah all almost like giving a helping
+#### [MIKE CHUCKLES]
 
-hand but it with the helping hand is
+#### LYDIA
 
-also a whoopee cushion so what we
+Just probably like- yeah, I think probably her- her ideal torture would be something like The Spiral where it's like she's given a test and she hasn't studied for it.
 
-actually what we ended up doing Alex and
+#### [ALEX LAUGHS]
 
-I during the beginning few times was
+#### MIKE
 
-that we'd sit down and Alex would be
+Or potentially like IKEA furniture, when she's the only one and doesn't have a handbook.
 
-like you have to be less of that yeah I
+#### LYDIA
 
-think you were thrown by just how hard a
+_(simult.) (laughs, agrees)_
 
-change the character had to go because
+#### MIKE
 
-at first it was very much like okay so
+_(simult.) (laughs)_
 
-you want it still to be sort of like Tim
+#### LYDIA
 
-just maybe a little bit of things like
+Or like the Allen key doesn't quite fit.
 
-no no no this is like broken completely
+#### MIKE
 
-broken
+Yeah.
 
-there is nothing Leno hope left about
+#### LYDIA
 
-anything and that in the beginning was
+Yeah.
 
-very difficult but now if going back to
+#### ALEX
 
-the original question my in to getting
+But there's other people doing it, who do have all the bits
 
-there is actually to think about
+#### MIKE
 
-everything in my life that has gone
+Yeah. 
 
-wrong and then that is how I hit the
+#### ALEX
 
-tone of Tim when I come into the
+and are doing really well.
 
-recording studio that's because I mean
+#### MIKE
 
-from Tim like the way we were discussing
+Yeah, yeah.
 
-as a character was like we only really
+#### LYDIA
 
-started making progress and I realized
+And it's fine. Right?
 
-it was best to just you are not playing
+#### MIKE
 
-Tim anymore no you're playing another
+And everything's ok.
 
-person who is still called Tim almost
+#### LYDIA
 
-like because it was just yeah we had to
+Yeah. So why is it-
 
-take it right back down to zero I mean
+#### ALEX
 
-like you said it's very much a case of
+And they keep offering to help.
 
-we had to go back beyond zero I feel to
+#### LYDIA
 
-kind of get to where I am with Tim now
+Yeah.
 
-because I have to remove
+#### [MIKE LAUGHS]
 
-everything from my mind that was what
+#### [LYDIA GROWLS LIKE THE HULK]
 
-Tim was in season one and know that that
+#### LYDIA
 
-character is still there underneath
+Yeah.
 
-everything else listens it feels like
+#### ALEX
 
-there's still there's still like the
+_(slightly annoyed)_ If I wanted help I'd ask for it.
 
-shape of the character there because
+#### LYDIA
 
-it's coming out now and very dry hue and
+Exactly, exactly.
 
-what's sort of clever about it is it's
+#### [MIKE LAUGHS]
 
-not an empowered dry humor it's not a
+#### MIKE
 
-I'm laughing at what's happening to me
+Non-branded He-Man smash green things smash, right?
 
-it's just it's a really bitter dry humor
+#### LYDIA
 
-Lydia playing playing Melanie what's
+Smash smash anger, yes.
 
-your what's your in cuz again I think we
+#### MIKE
 
-had a harder time with it at the star
+Smash anger.
 
-but you've gotten really good similarly
+#### LYDIA
 
-it just of adopting that persona now so
+Um, yeah. So, she's still got some cheer in her, which is ridiculous. I think the last time that I played her, she was inviting Martin to the pub.
 
-I am NOT a voice actor I I've done quite
+#### ALEX
 
-a lot of recorded stuff it has always
+Yes.
 
-been me doing the work and I really
+#### LYDIA
 
-struggle with a lot of kinds of
+So...
 
-performing because I essentially don't
+#### ALEX
 
-have a poker face and I've worked quite
+Yes.
 
-hard on a lot of things like improv
+#### LYDIA
 
-skills and presentation skills so like
+There's actually some- some happiness, which is obviously a cruelty.
 
-you're very skilled speaker yeah that's
+#### [ALEX, THEN MIKE LAUGH]
 
-things I do as me and so it's actually
+#### ALEX
 
-quite strange I haven't actually acted
+Playing the character- so we- obviously, we know like what you think about them and stuff like that. But when it comes to actually playing the characters, obviously like, for all of us, these aren't us. Like they're really, really not us as people.
 
-as another character in terms of like
+#### LYDIA
 
-how the character themselves is I tend
+Yeah, I mean like-
 
-to think of what is she doing work that
+#### [ALEX AND MIKE LAUGH]
 
-she's proud of right now so in the first
+#### LYDIA
 
-thing where they're in the the old
+Tumblr, Tumblr you would have absolutely no sympathy with Alex in real life.
 
-hospital oh yeah the frustration is her
+#### [ALEX AND MIKE LAUGH]
 
-job didn't work yes and she doesn't
+#### ALEX
 
-understand why yeah and so she's old but
+I'm horrible
 
-that's almost more of a problem than the
+#### [MIKE LAUGHING IN BACKGROUND]
 
-the fear mm-hmm I saw this thing and I
+#### LYDIA
 
-don't have the answer whereas like she's
+Right? He's- he's awful. No kittens for Alex.
 
-she's the producer right like her whole
+#### ALEX
 
-character is that she's a producer she
+But, in all seriousness,
 
-makes stuff happen and she makes stuff
+#### [MIKE HAS ONE QUIET WHEEZE-LAUGH]
 
-work and she knows people and she gets
+#### ALEX
 
-things too and then in quite a few other
+obviously like, you- you have to have an 'in'. You have to have an 'in' for your character. You have to have a way to get in and actually like portray that. So I'm curious 'cause... Mike, starting with you, you've had the most change. Because you're 'in', initially when we were sort of going over character stuff, was very much, yeah, that positivity and it was that- it was almost like if The Magnus Archives needed to have a PR face.
 
-things like all the things that have
+#### MIKE
 
-happened since there was something spun
+_(laughs)_ Yeah.
 
-out and like where she went broke into
+#### ALEX
 
-that train carriage it's all very
+Like it'd be Mike. You know, _(upbeat)_ 'Come join The Magnus Archives'.
 
-planned yeah he's a producer she works
+#### MIKE
 
-that I had to do I had to go there there
+Yeah, the person who-
 
-was a lot of security but I found a way
+#### LYDIA
 
-in yeah yeah and then all spirals out of
+_(laughs)_ Yeah.
 
-control and so this is horrible for her
+#### ALEX
 
-something that I actually think that she
+_(still upbeat)_ 'We've got books.'
 
-quite enjoyed the time that she read the
+#### [LYDIA LAUGHS]
 
-statement of the guy in the bed because
+#### MIKE
 
-there she's doing her job
+Yeah, who does the finger guns and everything. Like, points and, _(upbeat)_'Yeah!', you know, we just- _(upbeat)_'Look at our merch. We've got merch. Have you heard about the merch?' Yeah.
 
-at the end she's going through all the
+#### ALEX
 
-finals and as you say what this is okay
+And most of the characterization for that just consisted of reining it in a bit.
 
-this is a working day and you know sue
+#### LYDIA
 
-me I'm not gonna spoil it too
+Yeah.
 
-specifically but you know there's a lot
+#### MIKE
 
-of things where there's a okay here's a
+Yeah, exactly, um-
 
-terrible threat to you that someone's
+#### ALEX
 
-made a horrible threat what's the
+But now that's kind of gone. So what's your 'in' now? Because, I'd actually say that you're getting really good at just switching, as a character, Tim, on and off.
 
-obvious solution
+#### MIKE
 
-I actually was bit annoyed that it was
+Well, I feel- I mean this is a horror podcast but I feel like I'm gonna bring the tone down now. So basically in the season one stuff, like you say, it was very- it was very easy for me because my- my character, outside of the character, is very, I feel, is very lively and bubbly and if you saw the- the Christmas livestream then that- that basically is who we are as, you know, as people. Um, and having to make that switch around season two was very, very difficult.
 
-done so clumsily well I mean if I was
+#### ALEX
 
-Melanie which I sort of am because I
+That was tough.
 
-happen to know that what she's using
+#### MIKE
 
-wouldn't really work you know you think
+To the beginning- for the beginning of it, literally you know- you guys probably don't know, who are listening - but we have show notes at the- at the- in the middle and at the end of everything that we do and Alex sits through and takes us through a couple of his thoughts and we discuss ideas about how we could have played that scene differently or better or whatever.
 
-she's under a lot of pressure yeah so
+#### ALEX
 
-and that's why I think you know it makes
+It's- it's almost like respecting your actors but- but not.
 
-sense for her to click with Becerra so
+#### MIKE
 
-yeah when it comes to playing Martin
+Yeah, exactly, yeah.
 
-there's a bit of a weird juxtaposition
+#### [LYDIA LAUGHS]
 
-there because on the one hand I'd argue
+#### MIKE
 
-that he's been used earlier for a lot of
+Al-almost like giving a helping hand but it- if the helping hand is also a whoopee cushion.
 
-the comedy like again he was he's a foil
+#### LYDIA
 
-he's a foil to the the dour archivist
+_(laughingly)_ Hah.
 
-but on the flip side that isn't enough
+#### MIKE
 
-for a character so it meant that we've
+So what we actually- what we ended up doing, Alex and I, during the beginning few times was that we'd sit down and Alex would be like, 'You have to be, less,, of that.' 
 
-had to sort of dial up things other than
+#### [ALEX, LYDIA AND MIKE LAUGH]
 
-just Oh Wacka Wacka Wacka how inept but
+#### ALEX
 
-part of that means that when it comes to
+It- it was just, yeah, I think-
 
-playing Martin I basically looked back
+#### LYDIA
 
-picked all of the things about myself
+Have. less. fun.
 
-that I left by the wayside in a younger
+#### MIKE
 
-version and then just make that the
+Yeah.
 
-entire person to all of the worst bits
+#### ALEX
 
-of Alex about ten years ago but
+I think you were thrown by just how hard a change the character had to go through.
 
-obviously the caring thing I mean that's
+#### MIKE
 
-a weakness of you like that nervousness
+Massively.
 
-[Music]
+#### ALEX
 
-obsession with trying to make things
+because at first it was very much like okay so you want it still to be sort of like Tim just maybe a little bit sedate and it was like no no, no no. this is like 
 
-work and so on like I basically just
+broken individual
 
-hunted down a bunch of negative yeah
+completely broken there is nothing left
 
-Eric turistic yeah it's true that
+has no hope left about anything and that in the beginning was very difficult but now if going back to the original question my 'in' to getting there is actually to think about _everything_ in my life that has gone wrong
 
-needing to fix everyone is definitely
+lydia then alex laugh painfully/pityingly
 
-something that you oh it's something
+all at once 
 
-that I so common and then you you do
+yeah pretty much
 
-genuinely have to kind of like sometimes
+and then that is how I hit the tone of Tim when I come into the recording studio 
 
-yeah Martin not everyone will like you
+but- but that makes sense's because I mean from Tim like the way we were discussing it as a character was like we only really started making progress when we realized it was best to just you are not playing Tim anymore 
 
-all of the time okay
+no 
 
-Martin so very much an eighteen year old
+you're playing another person who is still called Tim almost like because it was just yeah we had to take it right back down to zero 
 
-like that's what Martin like I realized
+I mean like you said it's very much a case of 
 
-the character is not good
+we had to go back beyond zero I feel to kind of get to where I am with Tim now because I have to remove everything from my mind that was what Tim was in season one and know that that character is still there underneath everything else
 
-an 18 year old where someone older comes
+sure 
 
-along goes listen one people are gonna
+i mean as someone who listens it feels like there's still there's still like the shape of the character there because it's coming out now and very dry hue
 
-hate you yeah - that's okay and three
+yeah
+yeah yeah
 
-you can't fix everyone you know exactly
+and what's sort of clever about it is it's not an empowered dry humor it's not a I'm laughing at what's happening to me it's just it's a really bitter dry humor
 
-yeah blessed of intention yeah so I like
+Lydia playing playing Melanie what's your what's your 'in' 'cause again I think we had a harder time with it at the start but you've gotten really good similarly it just of adopting that persona now 
 
-that's me just hunting down for all of
+so I am NOT a voice actor I I've done quite a lot of recorded stuff but it has always been me doing the work and I really struggle with a lot of kinds of performing because I- I essentially don't have a poker face and I've worked quite hard on a lot of things like improv skills and presentation skills so I'm
 
-the hard lessons so can he genuinely
+like you're very skilled speaker 
 
-genuinely when I listen to Martin on the
+yeah 
 
-Magnus archives I just want to give him
+yeah for sure
 
-a hug and then I have to come in and
+that's things I do as me and so it's actually quite strange I haven't actually acted as another character. in terms of like how the character themselves is, I tend to think of what is she doing work that she's proud of right now. so in the first thing where they're in the- the old hospital 
 
-play a character I'm obliged to eat the
+oh yeah 
 
-narrative gods require me to ruin your
+the frustration is her job didn't work yes and she doesn't understand why 
 
-life okay so how will you want us to
+yeah 
 
-call you now someone you do everything
+and so she's almo- but that's almost more of a problem than the the fear 
 
-yeah twice so what were your favorite
+mm-hmm 
 
-character moments then so we've been
+I saw this thing and I don't have the answer whereas 
 
-sort of discussing a few specific
+mm
 
-examples in any type whether it was
+like she's she's the producer right like her whole character is that she's a producer she makes stuff happen and she makes stuff work and she knows people and she gets things to, um- and then in quite a few other things like all the things that have happened since there was something spun out and like where she went broke into that train carriage it's all very planned 
 
-horror just good acting funny whatever
+yeah 
 
-for your character specifically what
+she's a producer she works out how to do it. I had to do I had to go there there was a lot of security but I found a way in 
 
-would you say are the bits that you
+yeah yeah 
 
-actually like really enjoyed because
+and then it all spirals out of control and so this is horrible for her. similarly that's why I actually think that she quite enjoyed the time that she read the statement of the guy in the bed because there she's doing her job at the end she's going through all the files and well, this is okay. this is a working day. and you know similarly I'm not gonna spoil it too specifically but you know there's a lot of things where there's a- okay here's a terrible threat to you- that someone's made a horrible threat what's the obvious solution? take out the threat.
 
-certainly from my perspective I find it
+laughs
 
-really hard to do that because for me
+like I actually was a bit annoyed that it was done so clumsily, but
 
-it's always I'm looking at the work so
+laughter
 
-I'm started going are could have done
+there's a bit
 
-that I probably should have tweaked that
+we did have a big discussion about- well I mean if I was Melanie which I sort of am because I happen to know that what she's using wouldn't really work 
 
-I could improve that so I found it quite
+you know you think she's under a lot of pressure. um, but yeah so- and that's why I think that you know it makes sense for her to click with Becerra 
 
-difficult to home in on I really enjoyed
+so yeah when it comes to playing Martin there's a bit of a weird juxtaposition there. because on the one hand I'd argue that he's been used earlier for a lot of the comedy. like again he was he's a foil he's a foil to the the dour archivist but on the flip side that isn't enough for a character so it meant that we've had to sort of dial up things other than just Oh Wacka Wacka Wacka how inept but part of that means that when it comes to playing Martin I basically looked back picked all of the things about myself that I left by the wayside in a younger version
 
-this production Wilson and well we
+lydia awwwwwwwwwww
 
-started with me a few times do you wanna
+and then just make that the entire person 
 
-go first I'm happy to go first if it's
+lydia aww, then mike aw mate
 
-gonna say so there were few of mine that
+lydia my heart
 
-I liked I liked doing big and because
+no genuinely, like, this this is an _(insign??)_ to all of the worst bits of Alex about ten years ago
 
-doing the statements is a nice moment
+mike _(understanding noise)_ ah
 
-where you can kind of lay aside the
+but obviously the caring thing I mean that's a weakness of you like that nervousness obsession with trying to make things work and so on like I basically just hunted down a bunch of negative 
 
-character that you normally play and
+yeah, like, 
 
-play sort of someone else and I'm
+characteristics
+
+yeah it's true that needing to fix everyone is definitely something that you
+
+oh it's something that I 
+
+it's so common and then you you do genuinely have to kind of like sometimes yeah Martin not everyone will like you all of the time 
+
+and that's okay. that's okay
+
+Martin is very much an eighteen year old. like that's what Martin- like I realized the character is not that
+
+a good 18 year old, such a good 18 year old
+
+but it is an 18 year old where someone older comes along goes listen one people are gonna hate you 
+
+yeah 
+
+two that's okay
+
+yeah
+
+and three, you can't fix everyone 
+
+mike
+you know exactly, yeah, he has the best of intention yeah so I like
+
+and basically, that's me just hunting down for all of the hard lessons 
+
+lydia
+just want to give him a hug
+
+alex
+he doesn't need a hug. he needs to grow up. i did it, so can he.
+
+do you know what? genuinely. genuinely when I listen to Martin on the Magnus archives, I just want to give him a hug
+
+lydia 
+_(mourningly)_ yeah
+
+mike
+and then I have to come in and play a character
+
+lydia cackles
+
+mikw
+that snubs him
+
+alex
+that's just awful
+
+mike
+constantly
+
+lydia cackling
+
+mike
+and i'm just like 'but i like you but i'm obliged to hate you'
+
+lydia
+contractually obliged to be a dick
+
+alex
+the narrative gods require me to- to ruin your life. Okay, so
+
+lydia
+is that what you want us to call you now
+
+mike
+the narrative gods
+
+lydia
+you and jonny. the- the-
+
+alex
+oh i didn't say it
+
+lydia, mike laugh
+
+alex
+wait i did
+
+mike
+you kind of did, it's on- 
+
+lydia
+yeah you- you did we've literally got evidence
+
+mike
+it's on, everything now
+
+alex
+yeah twice
+
+lydia laughs
+
+alex
+so what were your favorite character moments then so we've been sort of discussing a few specific examples in any type whether it was horror just good acting funny whatever for your character specifically what would you say are the bits that you actually like really enjoyed because certainly from my perspective I find it really hard to do that because for me it's always- I'm looking at the work. So I'm sat there going 'aw could've done that' 'aw I probably should have tweaked that' 'aw I could've improved that'. So I found it quite difficult to home in on 'I really enjoyed this'.
+
+lydia
+no i hate it. they're all _(??? i have apd)_
+
+alex
+fair fair
+
+mike laughs
+
+lydia
+terrible,
+
+mike
+and
+
+lydia
+terrible experience, wouldn't do it again
+
+mike
+cut there, yeah
+
+all three laugh
+
+mike
+that'll do right we're done, yeah? um _(laughs)_
+
+all three laughing
+
+lydia
+off for chips
+
+mike cheering yay, alex joins
+
+mike
+production (??? i have apd) um- well we started with me a few times do you wanna go first lyd?
+
+lydia
+um... no.
+
+alex
+I'm happy to go first if it's gonna say so there were few of mine that I liked I liked doing big and because doing the statements is a nice moment where you can kind of lay aside the character that you normally play and play sort of someone else and I'm
 
 especially been enjoying them recently
 
